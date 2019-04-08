@@ -1,0 +1,2 @@
+# bashrepo
+something with bash
